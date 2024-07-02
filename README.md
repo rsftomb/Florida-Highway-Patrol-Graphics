@@ -2,6 +2,8 @@
 
 # GTAV/FiveM DDS Textures by Trooper Leary
 # [Consider donating and help support my development.]
+paypal.me/trooperleary
+$trooperleary
 
  Please read this README file carefully to understand how to use these files and the responsibilities you accept as an end user.
 
